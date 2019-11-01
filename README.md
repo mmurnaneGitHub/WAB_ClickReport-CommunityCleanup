@@ -1,7 +1,7 @@
 # WAB_ClickReport-CommunityCleanup
 Custom Community Cleanup popup report for Esri's Web AppBuilder. Use with WAB_Override-Default-Map-Click repository. Application: https://wspdsmap.cityoftacoma.org/website/NCS/Cleanup/
 
-Version 2.13
+Version 2.14
 
 INSTRUCTIONS:
 
